@@ -9,6 +9,6 @@
 
 - `Bmf_Docs` contains additional documentation files
 
-- `Bmf_SDK` a project file setup with packages and scripts to create & compile custom items, levels, bundles & plugins. + Example content
+- `Bmf_SDK` a 2021.3.22f1 unity project with packages and scripts to create & compile custom items, levels, bundles & plugins. + Examples
 
 ### This project is unfinished, and some features may not function as intended, if at all.
