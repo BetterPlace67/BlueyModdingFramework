@@ -1,5 +1,5 @@
 # BlueyModdingFramework
-**A modding framework for Bluey: The Videogame, allowing custom items, levels, skins, and assetbundles to be loaded easily.**
+**A MelonLoader-based modding framework for Bluey: The Videogame, allowing custom items, levels, skins, and assetbundles to be loaded easily.**
 
 - `BlueyModFramework` is the MelonLoader mod which loads all the content into the game & handles most logic
 
