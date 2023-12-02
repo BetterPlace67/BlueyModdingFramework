@@ -3,7 +3,7 @@
 
 - `BlueyModFramework` is the MelonLoader mod which loads all the content into the game & handles most logic
 
-- `Bmf_Assembly` is primarily an interface between the modding sdk and modding framework/game
+- `Bmf_Assembly` is a plugin interface between the modding sdk and modding framework/game
 
 - `Bmf_Assets` is an assetbundle containing prefabs and content used by `BlueyModFramework`, (primarily UI)
 
