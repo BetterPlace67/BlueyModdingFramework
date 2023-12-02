@@ -1,0 +1,237 @@
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\BlueyModFramework.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\BlueyModFramework.pdb
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Assembly-CSharp.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\MelonLoader.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\spine-csharp.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\spine-timeline.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\spine-unity.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.InputSystem.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UI.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\netstandard.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\BehaviorDesigner.Runtime.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\FMODUnity.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Cinemachine.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\YamlDotNet.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Coffee.UIParticle.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.Timeline.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\NavMeshComponents.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\0Harmony.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\MonoMod.Utils.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\bHapticsLib.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Mono.Cecil.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\AssetsTools.NET.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Tomlet.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.Mathematics.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.Burst.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\WebSocketDotNet.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\MelonLoader.xml
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\obj\Debug\BlueyModFramework.csproj.AssemblyReference.cache
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\obj\Debug\BlueyModFramework.csproj.CoreCompileInputs.cache
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\obj\Debug\BlueyModFramework.csproj.CopyComplete
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\obj\Debug\BlueyModFramework.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\obj\Debug\BlueyModFramework.pdb
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\BMF_Assembly.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\swagg\Desktop\FlatGames\Bluey Mods\ModFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\BlueyModFramework.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\BlueyModFramework.pdb
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\0Harmony.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Assembly-CSharp.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\AssetRipper.VersionUtilities.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\AssetsTools.NET.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\bHapticsLib.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\BMF_Assembly.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\IndexRange.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\MelonLoader.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\MelonStartScreen.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Mono.Cecil.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Mono.Cecil.Mdb.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Mono.Cecil.Pdb.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Mono.Cecil.Rocks.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\MonoMod.RuntimeDetour.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\MonoMod.Utils.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\spine-csharp.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\spine-timeline.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\spine-unity.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Tomlet.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.Animation.Rigging.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.Burst.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.Burst.Unsafe.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.Formats.Fbx.Runtime.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.InputSystem.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.Mathematics.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.ProBuilder.Csg.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.ProBuilder.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.ProBuilder.KdTree.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.ProBuilder.Poly2Tri.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.ProBuilder.Stl.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.RenderPipelines.Universal.Shaders.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.TextMeshPro.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Unity.Timeline.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.AIModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.AnimationModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ARModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.AudioModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ClothModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.CoreModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.DirectorModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.GIModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.GridModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.InputModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.NVIDIAModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.StreamingModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.TerrainModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.TilemapModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.TLSModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UI.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UIModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UmbraModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UNETModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityCurlModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.VFXModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.VideoModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.VRModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.WindModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\UnityEngine.XRModule.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\ValueTupleBridge.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\WebSocketDotNet.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\netstandard.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\BehaviorDesigner.Runtime.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\com.rlabrecque.steamworks.net.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\FMODUnity.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Cinemachine.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\YamlDotNet.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\Coffee.UIParticle.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\NavMeshComponents.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\bin\Debug\MelonLoader.xml
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\obj\Debug\BlueyModFramework.csproj.AssemblyReference.cache
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\obj\Debug\BlueyModFramework.csproj.CoreCompileInputs.cache
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\obj\Debug\BlueyModFramework.csproj.CopyComplete
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\obj\Debug\BlueyModFramework.dll
+D:\GithubRepos\BlueyModdingFramework\BlueyModFramework\obj\Debug\BlueyModFramework.pdb

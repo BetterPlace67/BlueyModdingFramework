@@ -1,0 +1,514 @@
+Mort_2D_Animation2D.png
+size:14815,6106
+filter:Linear,Linear
+pma:true
+Ankle/Ankle
+bounds:4960,180,266,266
+Arm/Arm 1a
+bounds:8625,434,243,617
+rotate:90
+Arm/Arm 3a
+bounds:8625,434,243,617
+rotate:90
+Arm/Arm 2a
+bounds:8625,189,243,617
+rotate:90
+Body/Back/body-back
+bounds:2,3827,1486,2277
+Body/Back3Q/Body-Back-3Q
+bounds:2,1538,1436,2287
+Body/Front/Body-Front
+bounds:1490,3861,1508,2243
+Body/Front3Q/Body-Front-3Q
+bounds:3000,4647,1457,2264
+rotate:90
+Body/Side/Body-Side-3Q
+bounds:5266,4693,1411,2259
+rotate:90
+Eyes/Eye 1 Fill
+bounds:8247,226,376,508
+Eyes/Eye 2
+bounds:10098,2,298,488
+rotate:90
+Eyes/Eye 3
+bounds:14461,2373,141,488
+EyesBronw/Brow 1
+bounds:14203,4821,306,235
+EyesBronw/Brow 1 a
+bounds:12697,533,315,200
+EyesBronw/Brow 1 b
+bounds:13014,510,315,252
+EyesBronw/Brow 1 c
+bounds:4645,21,313,214
+EyesBronw/Brow 1 d
+bounds:5228,184,313,214
+EyesBronw/brow 3
+bounds:13589,2,308,217
+rotate:90
+EyesBronw/brow 4
+bounds:13901,5060,317,220
+EyesBronw/brow 5
+bounds:4334,2,309,233
+EyesBronw/brow 7
+bounds:4960,448,316,211
+EyesLine/Eyeline 1
+bounds:7827,259,418,475
+EyesLine/Eyeline 2
+bounds:10098,302,308,498
+rotate:90
+EyesLine/Eyeline 3
+bounds:4071,513,154,500
+rotate:90
+Foot/Back/Foot Back 01
+bounds:14060,46,297,187
+rotate:90
+Foot/Back/Foot Back 02
+bounds:14249,54,306,256
+Foot/Back/Foot Back 03
+bounds:13331,608,305,292
+Foot/Back3Q/Foot Back 3/4 01
+bounds:13320,902,356,184
+Foot/Back3Q/Foot Back 3/4 02
+bounds:13320,1088,356,253
+Foot/Back3Q/Foot Back 3/4 03
+bounds:10588,5,374,277
+Foot/Back3Q/Foot Back 3/4 04
+bounds:10598,284,354,326
+Foot/Front/Foot Front 01
+bounds:8572,2,357,185
+Foot/Front/Foot Front 01a
+bounds:692,4,322,190
+rotate:90
+Foot/Front/Foot Front 01b
+bounds:10964,2,354,225
+rotate:90
+Foot/Front/Foot Front 02
+bounds:7827,2,350,255
+Foot/Front/Foot Front 02a
+bounds:12633,6,339,236
+Foot/Front/Foot Front 03
+bounds:12633,244,319,287
+Foot/Front/Foot Front 04
+bounds:14010,875,334,186
+Foot/Front/Foot Front 04a
+bounds:13678,880,330,213
+Foot/Front/Foot Front 05
+bounds:11760,146,320,232
+Foot/Front/Foot Front 06
+bounds:13020,1061,317,298
+rotate:90
+Foot/Front/Foot Front 06a
+bounds:14284,521,321,244
+Foot/Front/Foot Front 07
+bounds:13002,764,313,295
+Foot/Front/Foot Front 08
+bounds:12697,735,303,329
+Foot/Front3Q/Foot Front 3/4 01
+bounds:8931,2,354,185
+Foot/Front3Q/Foot Front 3/4 02
+bounds:12403,13,367,228
+rotate:90
+Foot/Front3Q/Foot Front 3/4 03
+bounds:11403,355,355,257
+Foot/Front3Q/Foot Front 3/4 03a
+bounds:3327,2,348,227
+Foot/Front3Q/Foot Front 3/4 04
+bounds:4408,237,340,274
+Foot/Front3Q/Foot Front 3/4 05
+bounds:4408,237,340,274
+Foot/Front3Q/Foot Front 3/4 06
+bounds:11191,2,354,185
+rotate:90
+Foot/Side/Foot Side 01
+bounds:12505,989,387,190
+rotate:90
+Foot/Side/Foot Side 01a
+bounds:8179,2,391,222
+Foot/Side/Foot Side 02
+bounds:4017,237,389,274
+Foot/Side/Foot Side 02a
+bounds:9684,17,386,226
+Foot/Side/Foot Side 03
+bounds:884,38,389,258
+Foot/Side/Foot Side 03a
+bounds:11760,380,386,264
+Foot/Side/Foot Side 03b
+bounds:11378,42,348,311
+Foot/Side/Foot Side 04
+bounds:12505,600,387,190
+rotate:90
+Hands/In/Hand
+bounds:13890,4811,311,247
+Hands/In/Hand 001
+bounds:12148,2,378,253
+rotate:90
+Hands/In/Hand 002
+bounds:14538,5026,275,254
+Hands/In/Hand 003
+bounds:14370,1035,334,274
+Hands/In/Hand 004
+bounds:13948,345,321,251
+Hands/In/Hand 005
+bounds:14271,312,321,207
+Hands/In/Hand 006
+bounds:13808,19,321,250
+rotate:90
+Hands/In/Hand 007
+bounds:13808,19,321,250
+rotate:90
+Hands/In/Hand 008
+bounds:14431,4518,267,254
+Hands/In/Hand 009
+bounds:4017,2,315,233
+Hands/In/Hand 010
+bounds:12697,1066,321,312
+Hands/In/Hand 011
+bounds:13290,39,297,290
+Hands/In/Hand 012
+bounds:13290,39,297,290
+Hands/In/Hand 013
+bounds:9287,6,395,237
+Hands/In/Hand 014
+bounds:13638,604,322,274
+Hands/In/Hand 015
+bounds:13631,342,315,260
+Hands/In/Hand 016
+bounds:13631,342,315,260
+Hands/In/Hand 048
+bounds:14511,4774,293,250
+Hands/In/Hand 049
+bounds:14461,2090,281,300
+rotate:90
+Hands/Out/Hand 018
+bounds:14346,767,328,266
+Hands/Out/Hand 019
+bounds:1275,49,365,247
+Hands/Out/Hand 024
+bounds:14220,5058,316,222
+Hands/Out/Hand 025
+bounds:5278,400,271,259
+Hands/Out/Hand 028
+bounds:12148,382,355,262
+Hands/Out/Hand 029
+bounds:13678,1095,344,246
+Hands/Out/Hand 030
+bounds:14024,1063,344,246
+Hands/Out/Hand 034
+bounds:13890,4537,277,272
+Hands/Out/Hand 035
+bounds:10954,358,447,254
+Hands/Out/Hand 036
+bounds:10954,358,447,254
+Hands/Out/hand 003
+bounds:12974,4,314,239
+Hands/Out/hand 010
+bounds:12954,245,327,263
+Leg/Leg 1d
+bounds:2,25,301,688
+rotate:90
+Leg/Leg 2d
+bounds:9528,2305,301,688
+Leg/Leg 3d
+bounds:3327,231,301,688
+rotate:90
+LegJoint/LegJoint
+bounds:14169,4540,269,260
+rotate:90
+Lids/Bottom/Bottom Eyelid 2 B
+bounds:9244,245,425,410
+Lids/Top/Bottom Eyelid2 A
+bounds:9671,245,425,410
+Mouth/Back3Q/Mouth Back 3Q
+bounds:13771,2863,814,671
+Mouth/Front/Mouth A
+bounds:11453,2155,774,669
+rotate:90
+Mouth/Front/Mouth Front
+bounds:11453,2155,774,669
+rotate:90
+Mouth/Front/Mouth X
+bounds:11453,2155,774,669
+rotate:90
+Mouth/Front/Mouth B
+bounds:5532,1580,774,730
+Mouth/Front/Mouth Front 002
+bounds:5532,1580,774,730
+Mouth/Front/Mouth C
+bounds:6308,1543,774,769
+Mouth/Front/Mouth Front 004 A
+bounds:6308,1543,774,769
+Mouth/Front/Mouth D
+bounds:3980,2204,774,829
+Mouth/Front/Mouth Front 005 A
+bounds:3980,2204,774,829
+Mouth/Front/Mouth E
+bounds:8717,2219,774,809
+rotate:90
+Mouth/Front/Mouth Front 008
+bounds:8717,2219,774,809
+rotate:90
+Mouth/Front/Mouth F
+bounds:12859,2155,774,799
+rotate:90
+Mouth/Front/Mouth Front 009
+bounds:12859,2155,774,799
+rotate:90
+Mouth/Front/Mouth Front 001
+bounds:11837,1378,775,706
+rotate:90
+Mouth/Front/Mouth Front 003
+bounds:13321,1343,774,742
+Mouth/Front/Mouth Front 004
+bounds:12545,1380,774,773
+Mouth/Front/Mouth Front 005
+bounds:9831,2197,774,809
+rotate:90
+Mouth/Front/Mouth Front 005 B
+bounds:3697,3051,774,855
+rotate:90
+Mouth/Front/Mouth Front 005 C
+bounds:2551,35,774,846
+Mouth/Front/Mouth Front 005 D
+bounds:3204,2139,774,832
+Mouth/Front/Mouth Front 005 E
+bounds:7905,2241,774,810
+rotate:90
+Mouth/Front/Mouth Front 006
+bounds:3113,1310,774,773
+rotate:90
+Mouth/Front/Mouth H
+bounds:3113,1310,774,773
+rotate:90
+Mouth/Front/Mouth Front 006 2
+bounds:7084,2282,774,819
+rotate:90
+Mouth/Front/Mouth Front 007
+bounds:3327,534,774,742
+rotate:90
+Mouth/Front/Mouth Front 010
+bounds:8672,1443,774,791
+rotate:90
+Mouth/Front/Mouth Front 011
+bounds:3980,1437,774,765
+Mouth/Front/Mouth Front 011 A2
+bounds:1775,2,774,765
+Mouth/Front/Mouth Front 011 B2
+bounds:12124,2164,774,733
+rotate:90
+Mouth/Front/Mouth Front 012
+bounds:14097,1311,774,706
+rotate:90
+Mouth/Front/Mouth G
+bounds:14097,1311,774,706
+rotate:90
+Mouth/Front/Mouth Front 013
+bounds:4847,661,774,742
+rotate:90
+Mouth/Front/Mouth Front 014
+bounds:7073,774,774,730
+Mouth/Front/Mouth Front 015
+bounds:5591,28,774,682
+rotate:90
+Mouth/Front/Mouth Front Sad
+bounds:7051,90,774,682
+Mouth/Front/Mouth Front Sad 001
+bounds:7849,736,774,727
+Mouth/Front/Mouth Front Sad 002
+bounds:6297,801,774,740
+Mouth/Front/Mouth Front Sad 003
+bounds:8625,679,774,762
+Mouth/Front/Mouth Front Sad 004
+bounds:7084,1506,774,792
+rotate:90
+Mouth/Front/Mouth Front Sad 004 A
+bounds:10258,1379,774,789
+rotate:90
+Mouth/Front/Mouth Front Sad 005
+bounds:5532,2312,774,822
+Mouth/Front/Mouth Front Sad 005 A
+bounds:2921,2973,774,856
+Mouth/Front/Mouth Front Sad 005 B
+bounds:2143,2972,776,887
+Mouth/Front/Mouth Front Sad 005 C
+bounds:2337,1214,774,847
+Mouth/Front/Mouth Front Sad 005 D
+bounds:6308,2314,774,820
+Mouth/Front/Mouth Front Sad 005 E
+bounds:11049,1379,774,786
+rotate:90
+Mouth/Front/Mouth Front Sad 006
+bounds:7878,1465,774,792
+rotate:90
+Mouth/Front/Mouth Front Sad 006 2
+bounds:4756,2204,774,829
+Mouth/Front/Mouth Front Sad 007
+bounds:9401,657,774,762
+Mouth/Front/Mouth Front Sad 008
+bounds:10642,2155,774,809
+rotate:90
+Mouth/Front/Mouth Front Sad 009
+bounds:13660,2087,774,799
+rotate:90
+Mouth/Front/Mouth Front Sad 010
+bounds:9465,1421,774,791
+rotate:90
+Mouth/Front/Mouth Front Sad 011
+bounds:10177,612,774,765
+Mouth/Front/Mouth Front Sad 011 A2
+bounds:4756,1437,774,765
+Mouth/Front/Mouth Front Sad 011 B2
+bounds:4071,669,774,766
+Mouth/Front/Mouth Front Sad 012
+bounds:5591,804,774,704
+rotate:90
+Mouth/Front/Mouth Front Sad 013
+bounds:10953,614,774,763
+Mouth/Front/Mouth Front Sad 014
+bounds:11729,646,774,730
+Mouth/Front/Mouth Front Sad 015
+bounds:6275,117,774,682
+Mouth/Front3Q/Mouth A
+bounds:7527,4562,907,671
+Mouth/Front3Q/Mouth Front 3Q
+bounds:7527,4562,907,671
+Mouth/Front3Q/Mouth X
+bounds:7527,4562,907,671
+Mouth/Front3Q/Mouth B
+bounds:8436,4538,907,719
+Mouth/Front3Q/Mouth Front 3Q 002
+bounds:8436,4538,907,719
+Mouth/Front3Q/Mouth C
+bounds:9345,4496,907,762
+Mouth/Front3Q/Mouth Front 3Q 004 A
+bounds:9345,4496,907,762
+Mouth/Front3Q/Mouth D
+bounds:10254,5262,907,842
+Mouth/Front3Q/Mouth Front 3Q 005 A
+bounds:10254,5262,907,842
+Mouth/Front3Q/Mouth E
+bounds:10254,4486,907,774
+Mouth/Front3Q/Mouth Front 3Q 008
+bounds:10254,4486,907,774
+Mouth/Front3Q/Mouth F
+bounds:3000,3831,907,814
+Mouth/Front3Q/Mouth Front 3Q 009
+bounds:3000,3831,907,814
+Mouth/Front3Q/Mouth Front 3Q 003
+bounds:922,629,907,740
+rotate:90
+Mouth/Front3Q/Mouth Front 3Q 004
+bounds:4818,3738,907,770
+rotate:90
+Mouth/Front3Q/Mouth Front 3Q 005
+bounds:11163,4475,907,802
+Mouth/Front3Q/Mouth Front 3Q 005 B
+bounds:7527,5235,907,869
+Mouth/Front3Q/Mouth Front 3Q 005 C
+bounds:9345,5260,907,844
+Mouth/Front3Q/Mouth Front 3Q 005 D
+bounds:11163,5279,918,825
+Mouth/Front3Q/Mouth Front 3Q 005 E
+bounds:13901,5282,907,822
+Mouth/Front3Q/Mouth Front 3Q 006
+bounds:7408,3788,907,772
+Mouth/Front3Q/Mouth H
+bounds:7408,3788,907,772
+Mouth/Front3Q/Mouth Front 3Q 006 2
+bounds:12083,5277,907,827
+Mouth/Front3Q/Mouth Front 3Q 007
+bounds:5590,3136,907,740
+Mouth/Front3Q/Mouth Front 3Q 010
+bounds:6499,3897,907,794
+Mouth/Front3Q/Mouth Front 3Q 011
+bounds:8317,3749,907,787
+Mouth/Front3Q/Mouth Front 3Q 011 A2
+bounds:7408,3058,907,728
+Mouth/Front3Q/Mouth Front 3Q 011 B2
+bounds:8317,3017,907,730
+Mouth/Front3Q/Mouth Front 3Q 012
+bounds:13771,3536,907,701
+rotate:90
+Mouth/Front3Q/Mouth G
+bounds:13771,3536,907,701
+rotate:90
+Mouth/Front3Q/Mouth Front 3Q 013
+bounds:9226,2995,907,740
+Mouth/Front3Q/Mouth Front 3Q 014
+bounds:1440,2918,907,701
+rotate:90
+Mouth/Front3Q/Mouth Front 3Q Sad
+bounds:1664,769,907,671
+rotate:90
+Mouth/Front3Q/Mouth Front 3Q Sad 001
+bounds:1440,2009,907,711
+rotate:90
+Mouth/Front3Q/Mouth Front 3Q Sad 002
+bounds:10135,2973,907,738
+Mouth/Front3Q/Mouth Front 3Q Sad 003
+bounds:9226,3737,907,757
+Mouth/Front3Q/Mouth Front 3Q Sad 004 A
+bounds:10135,3713,907,771
+Mouth/Front3Q/Mouth Front 3Q Sad 005
+bounds:12981,4445,907,821
+Mouth/Front3Q/Mouth Front 3Q Sad 005 B
+bounds:2,659,918,877
+Mouth/Front3Q/Mouth Front 3Q Sad 005 C
+bounds:8436,5259,907,845
+Mouth/Front3Q/Mouth Front 3Q Sad 005 D
+bounds:3909,3827,907,818
+Mouth/Front3Q/Mouth Front 3Q Sad 005 E
+bounds:12072,4457,907,818
+Mouth/Front3Q/Mouth Front 3Q Sad 006
+bounds:11044,3690,907,783
+Mouth/Front3Q/Mouth Front 3Q Sad 006 2
+bounds:12992,5268,907,836
+Mouth/Front3Q/Mouth Front 3Q Sad 007
+bounds:11044,2931,907,757
+Mouth/Front3Q/Mouth Front 3Q Sad 008
+bounds:11953,3682,907,773
+Mouth/Front3Q/Mouth Front 3Q Sad 009
+bounds:5590,3878,907,813
+Mouth/Front3Q/Mouth Front 3Q Sad 011
+bounds:12862,3657,907,786
+Mouth/Front3Q/Mouth Front 3Q Sad 011 A2
+bounds:11953,2940,907,740
+Mouth/Front3Q/Mouth Front 3Q Sad 011 B2
+bounds:12862,2931,907,724
+Mouth/Front3Q/Mouth Front 3Q Sad 012
+bounds:2153,2063,907,718
+rotate:90
+Mouth/Front3Q/Mouth Front 3Q Sad 013
+bounds:6499,3136,907,759
+Mouth/Front3Q/Mouth Front 3Q Sad 014
+bounds:4554,3035,907,701
+Mouth_Fur/Mouth Fur
+bounds:4960,20,158,204
+rotate:90
+Nose/Back/Nose Back
+bounds:1642,16,129,280
+Nose/Front/Nose Front
+bounds:13962,598,320,275
+Nose/Front3Q/Nose 3Q
+bounds:13331,331,298,275
+Nose/Side/Nose-side
+bounds:14607,490,179,275
+Pupil/Pupil 1
+bounds:1440,1546,130,171
+rotate:90
+Shoulder/Shoulder
+bounds:3677,2,237,227
+Tail/Tail C
+bounds:889,298,884,329
+Tail/Tail Squashed
+bounds:2,328,885,329
+Tail/Tail
+bounds:2,328,885,329
+Tail/Tail aa
+bounds:1440,1678,884,329
+Tail/Tail b
+bounds:2337,883,884,329
+Tail/Tail b2
+bounds:2873,2086,884,329
+rotate:90
+Wrist/Wrist
+bounds:14474,4279,237,237

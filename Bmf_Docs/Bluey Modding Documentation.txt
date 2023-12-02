@@ -1,0 +1,128 @@
+
+Bluey: The Videogame - Modding Framework Documentation - 11/25/2023
+_______________________________________
+	-- Getting Started --
+_______________________________________
+
+> Provided within this .zip file is a folder named 'ModdingSDK', this is a Unity project file.
+
+> Download Unity version: 2021.3.22f1 to open it correctly.
+
+> Upon opening, you can find example content under the 'Examples' folder at the root of the project
+
+> To mark an asset (level, item, mod, etc) to be built, click on it in the project window, and change the Asset Labels 
+(bottom of the insepector) to match that of the asset type. The first dropdown/textbox is the asset name, which can be
+whatever you want, note that this is the name your mod will go by in the Quick Menu. The next dropdown to the right is the
+asset type, there should already be pre-defined types for you in the project, select the correct one for your mod type.
+
+> When creating custom scripts, create an 'Assembly Definition' asset in the same folder as your scripts, and name it uniquely.
+This allows your code to be compiled into a .dll, which you'll need when injecting the scripts into the game. (By dragging said
+.dll into the 'Plugins' folder)
+
+> To build your assets, or compile your scripts, look to the toolbar at the top of your screen. There should be a tab named:
+"Bluey Modding", with buttons to perform each action.
+
+_______________________________________
+	-- Custom Items --
+_______________________________________
+
+> Right click in the 'Project' window, and go to the "Create" asset dropdown, then under "Bluey Modding", click "Item"
+This asset *is* your item, and describes all the details about it. This is what you'll want to configure the Asset Labels on
+prior to building assets.
+
+> The most important category to modify within your Item Proxy Asset is: "VISUALS", especially the 'Item Prefab' slot.
+This is where you'll put your custom item's model, which is recommended to be a prefab, so that rotation & scaling can
+be easily modified & iterated on.
+
+> Once your Item Proxy Asset is configured as you please, with the item prefab set, and it's Asset Labels correct, build assets
+
+> Drag any built item asset files, labeled ".blueyitem" under the "ModAssets/CustomItems/" directory of your game
+
+> If you are quickly testing an item and do not wish to constantly reopen your game to see changes, ensure you go to the 
+"Manage Loaded Content" page under the "Settings" button of the Quick Menu, and press the "Unload Items" button.
+After that any custom item you give yourself, even if it has been spawned before, will be reloaded to it's newest state. This
+process will have to be repeated for each reimport however, as Assets once loaded are re-used unless manually unloaded.
+
+_______________________________________
+	-- Custom Levels --
+_______________________________________
+
+> Create a scene, and click on it's asset in the 'Project' window. Configure it's asset labels in the 'Inspector' accordingly
+
+> Within the scene, create an object in the hierarchy, and give it the "ProxyLevelManager" component. This component
+describes certain aspects about your level, such as player movement speed, but most importantly, spawn points.
+
+> Within the 'List Tp Scenes' dropdown, create four "Positions To Tp Players". Fill each slot with new gameobjects placed
+at the spawn positions for each character. Each element down in that list of four is a seperate character from the family.
+In order it goes: ( 0-Bluey, 1-Bingo, 2-Bandit, 3-Chilli ). Note also that only the first (element 0) for "List Tp Scenes" will be used.
+
+> Note that the in-game camera is very over-exposed. So it may be preferable to set your lights to have lower intensities, and 
+your skybox to have a lowered exposure.
+
+> Ready to play your level? Build asset bundles.
+
+> Drag any built level assets labeled ".blueylevel" into "ModAssets/CustomLevels/" to view them in game.
+
+_______________________________________
+	-- Mod Assets (.blueymod) --
+_______________________________________
+
+> Mod Assets are assets which get loaded into the game by the modding framework automatically outside of levels & items
+
+> These can be useful for custom melonloader mods which require new assets within the game to be loaded.
+
+> Mod Assets can be literally any asset with the .blueymod Asset Label, and are either instantiated automatically (via naming), or manually with your own scripting ( BMF_Init.LoadModAsset(string modName, string assetName) )
+
+> Built Mod Assets labeled ".blueymod" should be left within the "ModAssets/" folder of your game installation
+
+> .blueymod files with "!" in the name get all assets loaded & instantiated (if possible) immediately (scene 0) ex: "!example.blueymod"
+
+> .blueymod files with "~" in the name get all assets loaded & instantiated (if possible) when gameplay begins (scene 3) ex: "~example.blueymod"
+
+> Assets within .blueymod files named the same as a scene (ex: "IntroVideoScene", "SetUp", "MainMenu", "GameplayLoader", "HeelerHouse", "Playgrounds", "TheCreek", "TheBeach")
+(including custom level names) are instantiated whenever that scene is loaded. ex: "HeelerHouse.prefab" or "HeelerHouse_example.prefab" (just has to contain the name) (overriden by blueymod naming if applicable)
+
+> Prefabs within .blueymod files are instantiated automatically if " ! " is included in their asset name. ex: "!example.prefab" (overriden by blueymod naming if applicable)
+
+> Prefabs within .blueymod files with "~" in the name get instantiated when gameplay begins (scene 3) ex: "~example.prefab" (overriden by blueymod naming if applicable)
+
+> Note that all bundles are loaded when the game launches, it's only the loading & instantiation of included assets which are staggered according to naming.
+
+> Mod Assets cannot be unloaded via the Loaded Asset Manager, and the game must be reopened.
+
+_______________________________________
+-- Custom Scripts (For levels, items, modassets)-- 
+_______________________________________
+
+> Keep all custom scripts you intend to use for your mod within the same folder of your project, and create an 'Assembly Definition'
+asset within that folder, named something unique to your mod. (I recommend doing this prior to writing your scripts)
+
+> Simply use your scripts directly on the assets as you would normally when developing in Unity
+
+> When you build your assets, they retain the references to your custom scripts, but not the scripts themselves, they must be compiled
+seperately via the "Compile Scripts" button within that same menu. This will create .dll files under the "Compiled/Plugins/" directory.
+
+> Drag any custom script .dll files into the "Plugins/" directory within your game installation. This will load your scripts in game, and 
+any custom assets with references to them should function correctly.
+
+> (Note), after compiling .dlls and dragging them into your game, you may want to delete them from the "Compiled/Plugins/" folder,
+as unity will try to read your scripts from them as a precompiled assembly, effectively loading two of the same scripts, which can cause
+errors and confusion later.
+
+_______________________________________
+-- Custom Scripts (Outside of assets) -- 
+_______________________________________
+
+> Simply create a Visual Studio project and develop a MelonLoader mod as usual, and inject the compiled dll through the "Mods/" folder
+
+> Watch provided video for more details: 
+https://youtu.be/_8B80owys4w?si=xPCv_gylBo7EdE6C&t=156
+
+_______________________________________
+	-- Custom Audio -- 
+_______________________________________
+
+> The game does not make use of the standard Unity audio system, but instead, FMOD. In order to inject custom audioclips into the game,
+you'll need to download FMOD Studio (free) and compile your own sound banks.
+
+> Compiled sound banks will need to be placed under: "Project biscuits_Data/StreamingAssets/" to to loaded in game

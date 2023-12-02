@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85c326470efbfd947a729cfff417002e, type: 3}
+  m_Name: item_Maxwell
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 7123858055988420936, guid: 861ab5f7368865a4098e977a15d1e936, type: 3}
+  colliderBounds: {x: 0.3, y: 0.3, z: 0.3}
+  colliderOffset: {x: 0, y: 0, z: 0}
+  pickupRadius: 1.8
+  m_action: 2
+  m_contextualActionPrompt: {fileID: 0}
+  m_kidsCanDoIt: 1
+  m_parentsCanDoIt: 1
+  m_defaultFairyDustRewardPoints: 20
+  m_isTrigger: 0
+  m_canGoInRange: 1
+  m_requiresUsableObject: 0
+  m_minForceMagnitudeHorizontal: 0.3
+  m_maxInitialRandomForceMagnitudeHorizontal: 0.4
+  m_maxFinalRandomForceMagnitudeHorizontal: 1
+  m_minForceMagnitudeVertical: 0.3
+  m_maxInitialRandomForceMagnitudeVertical: 0.4
+  m_maxFinalRandomForceMagnitudeVertical: 0.7
+  m_hitsToGetMaxForce: 20
+  m_isPickable: 1
+  m_minHorizontalForce: 5
+  m_minVerticalForce: 10
+  m_maxHorizontalForce: 5
+  m_maxVerticalForce: 10
+  m_minSmashHorizontalForce: 5
+  m_minSmashVerticalForce: 2.5
+  m_maxSmashHorizontalForce: 10
+  m_maxSmashVerticalForce: 5
+  m_canBeKickedWhileWalkAndRun: 0
+  m_horizontalForceKick: 10
+  m_verticalForceKick: 5
+  m_randomizeRotation: 0
+  m_rotationForce: {x: 0, y: 0, z: 0}
+  m_isEpisodePickable: 0
+  m_limitDistanceToExecuteLowSmashAnimtion: 1.25
+  m_limitDistanceToExecuteLowBigSmashAnimtion: 0.75
+  m_forceAutoHit: 0.5
+  m_backwardHorizontalForce: 2
+  m_backwardVerticalForce: 4
+  m_mass: 1
+  m_drag: 0
+  m_angularDrag: 0.05
+  m_dynamicFriction: 0.6
+  m_staticFriction: 0.6
+  m_bounciness: 0.35
+  m_collisionBounceForce: 10
+  m_frictionCombine: 0
+  m_bounceCombine: 0
+  m_minFairyDustReceivedPickAndThrow: 10
+  m_maxFairyDustReceivedPickAndThrow: 20
+  m_probabiltyToGetRewarKeepieUppiesd: 60
+  m_isToy: 0
+  m_toyID: 0
+  m_typeOfPickUpObject: 0
+  spawnParticlesWhenInstantiate: 0
+  m_OnGroundSFX: /SFX/GameworldInteractions/ObjectHit_Big
+  m_OnKickSFX: /SFX/PlayerActions/BanditSteps
+  m_actionIconAnimator: {fileID: 0}
+  m_startingScale: {x: 1, y: 1, z: 1}
+  m_changesTransformPlayer:
+  - m_id: 0
+    frontPosition: {x: 0, y: 0, z: 0}
+    frontRotation: {x: 0, y: 0, z: 0}
+    frontQPosition: {x: 0, y: 0, z: 0}
+    frontQRotation: {x: 0, y: 0, z: 0}
+    backPosition: {x: 0, y: 0, z: 0}
+    backRotation: {x: 0, y: 0, z: 0}
+  - m_id: 1
+    frontPosition: {x: 0, y: 0, z: 0}
+    frontRotation: {x: 0, y: 0, z: 0}
+    frontQPosition: {x: 0, y: 0, z: 0}
+    frontQRotation: {x: 0, y: 0, z: 0}
+    backPosition: {x: 0, y: 0, z: 0}
+    backRotation: {x: 0, y: 0, z: 0}
+  - m_id: 2
+    frontPosition: {x: 0, y: 0, z: 0}
+    frontRotation: {x: 0, y: 0, z: 0}
+    frontQPosition: {x: 0, y: 0, z: 0}
+    frontQRotation: {x: 0, y: 0, z: 0}
+    backPosition: {x: 0, y: 0, z: 0}
+    backRotation: {x: 0, y: 0, z: 0}
+  - m_id: 3
+    frontPosition: {x: 0, y: 0, z: 0}
+    frontRotation: {x: 0, y: 0, z: 0}
+    frontQPosition: {x: 0, y: 0, z: 0}
+    frontQRotation: {x: 0, y: 0, z: 0}
+    backPosition: {x: 0, y: 0, z: 0}
+    backRotation: {x: 0, y: 0, z: 0}
+  m_characterTarget: 0
