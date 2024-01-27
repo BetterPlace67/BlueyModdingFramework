@@ -9,6 +9,8 @@
 
 - `Bmf_Docs` contains additional documentation files
 
+- `Bmf_Examples` contains pre-built example mod assets seperate from the SDK
+
 - `Bmf_SDK` a 2021.3.22f1 unity project with packages and scripts to create & compile custom items, levels, bundles & plugins. + Examples
 
 ### This project is unfinished, and some features may not function as intended, if at all.
