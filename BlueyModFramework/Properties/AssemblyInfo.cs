@@ -6,7 +6,7 @@ using MelonLoader;
 using BlueyModFramework; // The namespace of your mod class
 // ...
 [assembly: MelonInfo(typeof(BMF_Init), "Bluey Modding Framework", "1.0.0", "BetterPlace")]
-[assembly: MelonGame("DefaultCompany", "Project biscuits")]
+[assembly: MelonGame(null, null)]
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
